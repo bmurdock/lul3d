@@ -1,0 +1,338 @@
+{
+  "release_date": "2026-11-02",
+  "prepared_at_utc": "2026-11-03T03:11:16.137348+00:00",
+  "status": "published_verified",
+  "site": "https://lul3dprints.com/",
+  "project": "lul3dprints",
+  "hosting": "Cloudflare Pages direct upload",
+  "git_branch": "bjm/publish-winter-storefront",
+  "previous_deployment_id": "e5facd6c-9656-4dd6-aabc-bd2065de3eb0",
+  "deployment_id": "94e22559-c564-4b6d-afb2-db7596a7fa8b",
+  "public_file_count": 44,
+  "files": [
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 265,
+      "sha256": "8702586679dc5590f66367eae37e3c936a1dea7d44c26c71e8ee6756acfa1f89"
+    },
+    {
+      "path": "assets/fidget-logo-mockup.png",
+      "bytes": 414377,
+      "sha256": "0d2f068991ecdb6d71a8274aa30cb827b9f75b95e99be3b6bfc159549fa6768d"
+    },
+    {
+      "path": "assets/lul3d-social-preview.png",
+      "bytes": 369683,
+      "sha256": "00cc1f7a26897a5aa9e40a7f735610005937d850ada369181477a674015c3781"
+    },
+    {
+      "path": "assets/products/acorn-open.png",
+      "bytes": 828988,
+      "sha256": "60f27765aff1d66fa772af567f9ba5502bde8d31934c34daf8f4b27d9f87fafe"
+    },
+    {
+      "path": "assets/products/barn-open.png",
+      "bytes": 622930,
+      "sha256": "0956573f7aadd91f07452d99546ddc16485c0c5da10a359393608cbe18e0606c"
+    },
+    {
+      "path": "assets/products/barn-patio.webp",
+      "bytes": 147706,
+      "sha256": "38e0b5f007ef525ac834c003d017352600717837b433916042ca82555700fddb"
+    },
+    {
+      "path": "assets/products/cauldron-blue-purple.webp",
+      "bytes": 102224,
+      "sha256": "8d00ef168369aa42a632d162508a4d0c6c50a4ec78da2e62e9c3e692a1b5d6be"
+    },
+    {
+      "path": "assets/products/cauldron-enchanted-potion.webp",
+      "bytes": 157480,
+      "sha256": "33bed81d9a35a484ab90bad2ee2a57564eb3d339beb454b3cb059ca339f23f87"
+    },
+    {
+      "path": "assets/products/cauldron-glow.webp",
+      "bytes": 34908,
+      "sha256": "6ba139436d73a7a924038ca212f351c30327b44a86dfef8145c7f7f6ab2a4dcb"
+    },
+    {
+      "path": "assets/products/cauldron-magic-detail.webp",
+      "bytes": 188606,
+      "sha256": "f4226485f00a901d51fa6de2ca01f5030b5ec3cd17b3400b0ea58f18a14893d4"
+    },
+    {
+      "path": "assets/products/cauldron-magic-hero.webp",
+      "bytes": 106510,
+      "sha256": "9608e03232007cfa9245e5484afa99c60462e3bf878e2f163dc81527e9db333b"
+    },
+    {
+      "path": "assets/products/cauldron-pink.webp",
+      "bytes": 149638,
+      "sha256": "27298a54dc666c1ae8f5d4509c53a1489737b691080966adaecf36b0aecdb123"
+    },
+    {
+      "path": "assets/products/cauldron-witches-brew.webp",
+      "bytes": 158420,
+      "sha256": "ed28b4b77d16f184ae607526227dbd45381d0f9e010479755c613e46913a8a3e"
+    },
+    {
+      "path": "assets/products/cauldron-yellow-orange.webp",
+      "bytes": 90996,
+      "sha256": "b87ba898fb779d487c4e4c4ffa8605756aded71e33b92db84cd8e920b5e7b4ea"
+    },
+    {
+      "path": "assets/products/dino-dig-open.png",
+      "bytes": 864860,
+      "sha256": "7985e208438edd3fe88f46ef09d74c250bbc7b44e4f46ea731a2b85968a7615e"
+    },
+    {
+      "path": "assets/products/dino-dig-play.png",
+      "bytes": 761803,
+      "sha256": "cb8e257a6e9dd367eff84e343358af3a4e4c5cd0b3eb19e342e03b936b12a675"
+    },
+    {
+      "path": "assets/products/dino-dig-playroom.webp",
+      "bytes": 165402,
+      "sha256": "6e8cff53d92e37542370090dd254a84ec1e9656ceef62a4bce8a01274808974f"
+    },
+    {
+      "path": "assets/products/enchanted-potion-sparkles.webp",
+      "bytes": 223118,
+      "sha256": "1db5885f9062910d3393bf5b2999980d526ab0bacfd2c9352b12da1b615be4dc"
+    },
+    {
+      "path": "assets/products/gingerbread-house-winter.webp",
+      "bytes": 127456,
+      "sha256": "eba0892e8326ca0ecb05937277134e28a9e6e37fa284b37b1c78c7f73fec7aa5"
+    },
+    {
+      "path": "assets/products/gingerbread-roof-detail.webp",
+      "bytes": 138120,
+      "sha256": "fe7255329beb2a53af47f296ced83bdf25dedcc7866c0f6d061d152d13be4e41"
+    },
+    {
+      "path": "assets/products/ladybug-open.png",
+      "bytes": 483892,
+      "sha256": "54cf65becfe6a49848719a687a016066fd3a5456d7a27f181e24a37a1c76d5af"
+    },
+    {
+      "path": "assets/products/polar-bear-winter.webp",
+      "bytes": 131276,
+      "sha256": "90cc46928b850b3ab37dd9e45bdcca99bce1b07ec9a5d1e1ab2e497d10c8a19e"
+    },
+    {
+      "path": "assets/products/pumpkin-group.png",
+      "bytes": 659307,
+      "sha256": "e488b3835f381c4731a107f7a2099d57e782a003c0a2a9cac7163398bab1a9b8"
+    },
+    {
+      "path": "assets/products/turtle-green.png",
+      "bytes": 713768,
+      "sha256": "be8f62ba4c8f9a08e4fea081305cd9228c988be9989832be807ccf475c65cbb1"
+    },
+    {
+      "path": "assets/products/turtle-living-room.webp",
+      "bytes": 161280,
+      "sha256": "4f606bf2f6e7b7df6ab9f29d920902df97ea55fe98663f9e807a7a950023b210"
+    },
+    {
+      "path": "assets/products/turtle-pair.png",
+      "bytes": 327035,
+      "sha256": "4b5c3ee9ad3d50ed2425c004753a884bdb0dcb05418ee333b5731a136ec2d061"
+    },
+    {
+      "path": "assets/products/winter-stamp-impressions.webp",
+      "bytes": 235862,
+      "sha256": "dff0b57f8ba5a92d756d8747c9d17263c8cef13079559269fa25322ae2e9c6bc"
+    },
+    {
+      "path": "assets/products/winter-stamps-detail.webp",
+      "bytes": 189996,
+      "sha256": "1b5806cd0cc4862814d4b00329255305d084d080a2b2495624fa84e57a6aa39f"
+    },
+    {
+      "path": "collection.js",
+      "bytes": 1539,
+      "sha256": "f949c831a3b78f78bdeb739964187fcaaba99b07f37e25cd4c36c1abad0d047d"
+    },
+    {
+      "path": "continue-shopping.html",
+      "bytes": 2007,
+      "sha256": "f882b7548bdd8458527627e4bfce97732443c2a7328bc0dd5e1ab85235cb37fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16671,
+      "sha256": "f5445c97f8634b5fe332a373192daa75025d6a9b4e95c684d40a59590fe92bfb"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 69,
+      "sha256": "b7f508d32ec701c227b406b41ebdbc252027af894ce7b615a71fe6eb91e160c3"
+    },
+    {
+      "path": "sandboxes/acorn.html",
+      "bytes": 4552,
+      "sha256": "df0711d0a8aaf3db6cb755df6edc84b2ecdafcd3e6a23e8511df83e791074f16"
+    },
+    {
+      "path": "sandboxes/barn.html",
+      "bytes": 4842,
+      "sha256": "b67cbff407cee09ba6490794e07ca92086c7265ffc7914a2fc0bb155dea5aa88"
+    },
+    {
+      "path": "sandboxes/cauldron.html",
+      "bytes": 7759,
+      "sha256": "30371e516d916734b24eb3f0827dab137449584dd8ad60d05fcf652b1954d29a"
+    },
+    {
+      "path": "sandboxes/dino-dig.html",
+      "bytes": 5304,
+      "sha256": "379718b02c5ba2fff6afff298e5d41b8ef0616f8ee0f30f543f0053c6b4c0743"
+    },
+    {
+      "path": "sandboxes/gingerbread-house.html",
+      "bytes": 5273,
+      "sha256": "65ae1a57a3fe099ce8c03feb1f89c07ec1e1e0597d5e954053e80b0e9478de4f"
+    },
+    {
+      "path": "sandboxes/ladybug.html",
+      "bytes": 4577,
+      "sha256": "a314b1ece6075d55830ef8595c8da2803555d731f5cd76c53cea28a809ce8d2c"
+    },
+    {
+      "path": "sandboxes/polar-bear.html",
+      "bytes": 5189,
+      "sha256": "86c6597b58d679187bff5905eef0b5f2ce7ba981d9366b56c1502dd28acc4699"
+    },
+    {
+      "path": "sandboxes/pumpkin.html",
+      "bytes": 4567,
+      "sha256": "1af32a4b6d12201c05e0a5218259cf6c5e24060f206f02990699e5c03853304f"
+    },
+    {
+      "path": "sandboxes/turtle.html",
+      "bytes": 5900,
+      "sha256": "4d9ebfbf1f90cdfe68866789adc378608a3e6c2d1003ad603cacee67492aacf5"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 817,
+      "sha256": "f97f4f2eeccf9193776015e921440b94d47b91b371ea249928e616ae89c32786"
+    },
+    {
+      "path": "stamps.html",
+      "bytes": 4017,
+      "sha256": "2858403338ff3c030e0b99a4d7b3f9c4a2d9c5e324527c5c71b330fb184e4fa1"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 22023,
+      "sha256": "1b9cc9d9f041643b83a1a5a7e8530933814c2265bda1e945dc4a89ef7c921ef6"
+    }
+  ],
+  "verification": {
+    "local_html_pages": 12,
+    "local_references": 261,
+    "responsive_checks": 48,
+    "square_links": 13,
+    "production": {
+      "provider_result": "Cloudflare reported success; 44/44 public files uploaded",
+      "pages_checked": 12,
+      "prices_and_checkout_destinations_match": true,
+      "checkout_destinations": 13,
+      "responsive_checks": [
+        {
+          "overflow": false,
+          "path": "/",
+          "stampSuggestions": 0,
+          "width": 390
+        },
+        {
+          "mobileOrderBeforeGallery": true,
+          "overflow": false,
+          "path": "/sandboxes/polar-bear",
+          "stampSuggestions": 1,
+          "width": 390
+        },
+        {
+          "mobileOrderBeforeGallery": true,
+          "overflow": false,
+          "path": "/sandboxes/gingerbread-house",
+          "stampSuggestions": 1,
+          "width": 390
+        },
+        {
+          "overflow": false,
+          "path": "/stamps",
+          "stampSuggestions": 0,
+          "width": 390
+        },
+        {
+          "overflow": false,
+          "path": "/",
+          "stampSuggestions": 0,
+          "width": 1440
+        },
+        {
+          "overflow": false,
+          "path": "/sandboxes/polar-bear",
+          "stampSuggestions": 1,
+          "width": 1440
+        },
+        {
+          "overflow": false,
+          "path": "/sandboxes/gingerbread-house",
+          "stampSuggestions": 1,
+          "width": 1440
+        },
+        {
+          "overflow": false,
+          "path": "/stamps",
+          "stampSuggestions": 0,
+          "width": 1440
+        }
+      ],
+      "www_redirect": "https://lul3dprints.com/sandboxes/gingerbread-house",
+      "gallery_slides_observed": [
+        {
+          "count": "01 / 09",
+          "name": "Turtle Sandbox"
+        },
+        {
+          "count": "02 / 09",
+          "name": "Polar Bear Sandbox and Playset"
+        },
+        {
+          "count": "03 / 09",
+          "name": "Gingerbread House Sandbox and Playset"
+        }
+      ],
+      "browser_asset_hash_matches": {
+        "styles.css": "1b9cc9d9f041643b83a1a5a7e8530933814c2265bda1e945dc4a89ef7c921ef6",
+        "assets/products/turtle-living-room.webp": "4f606bf2f6e7b7df6ab9f29d920902df97ea55fe98663f9e807a7a950023b210",
+        "assets/products/gingerbread-house-winter.webp": "eba0892e8326ca0ecb05937277134e28a9e6e37fa284b37b1c78c7f73fec7aa5",
+        "assets/products/polar-bear-winter.webp": "90cc46928b850b3ab37dd9e45bdcca99bce1b07ec9a5d1e1ab2e497d10c8a19e",
+        "assets/products/enchanted-potion-sparkles.webp": "1db5885f9062910d3393bf5b2999980d526ab0bacfd2c9352b12da1b615be4dc",
+        "assets/products/pumpkin-group.png": "e488b3835f381c4731a107f7a2099d57e782a003c0a2a9cac7163398bab1a9b8",
+        "assets/products/acorn-open.png": "60f27765aff1d66fa772af567f9ba5502bde8d31934c34daf8f4b27d9f87fafe",
+        "assets/products/ladybug-open.png": "54cf65becfe6a49848719a687a016066fd3a5456d7a27f181e24a37a1c76d5af",
+        "assets/products/barn-patio.webp": "38e0b5f007ef525ac834c003d017352600717837b433916042ca82555700fddb",
+        "assets/products/dino-dig-playroom.webp": "6e8cff53d92e37542370090dd254a84ec1e9656ceef62a4bce8a01274808974f",
+        "assets/products/winter-stamps-detail.webp": "1b5806cd0cc4862814d4b00329255305d084d080a2b2495624fa84e57a6aa39f",
+        "assets/products/gingerbread-roof-detail.webp": "fe7255329beb2a53af47f296ced83bdf25dedcc7866c0f6d061d152d13be4e41",
+        "assets/products/winter-stamp-impressions.webp": "dff0b57f8ba5a92d756d8747c9d17263c8cef13079559269fa25322ae2e9c6bc"
+      },
+      "full_http_hash_verification": false,
+      "direct_http_status": 403,
+      "note": "Only browser-observed asset bytes were compared. Production page content and layout were verified in the browser. No order or payment was submitted."
+    }
+  },
+  "limitations": [
+    "Stamp orders use email inquiries; no combined stamp checkout.",
+    "Fox listing, pack-selection rules, use claims and production costing remain pending."
+  ],
+  "package_sha256": "e2c90e0bbb9140b4c4a1abc868b9919f7ab545d73d2e86f8a13d25732ee9d499",
+  "deployment_url": "https://94e22559.lul3dprints.pages.dev/",
+  "git_source_commit": "7b1ff1eb6088db13b5ba17d7238f1add6a6931b5"
+}

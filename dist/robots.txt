@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lul3dprints.com/sitemap.xml
